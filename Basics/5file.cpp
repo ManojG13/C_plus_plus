@@ -1,6 +1,6 @@
 #include <iostream>
-#include <iomanip>
 #include <fstream>
+//fstream to read and write the files
 #include <string>
 
 using namespace std;

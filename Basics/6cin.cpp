@@ -5,7 +5,7 @@ int main()
 {
     int year = 0;
     int age = 0;
-    std::string userName = " ";
+    std::string userName;
 
     std::cout << "What's your favorite year?" << "\n";
     std::cin >> year;
@@ -14,7 +14,7 @@ int main()
     std::cin >> age;
 
     std::cout << "Can I know your userName?" << '\n';
-    std::cin, userName; //using direct cin without getlink cant recognise spaces
+    std::cin >> userName; //using direct cin, without getlink spaces can't be recognised
 
     std::cout << "Hello! " << userName << '\n';
     return 0;

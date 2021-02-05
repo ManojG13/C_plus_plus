@@ -1,5 +1,8 @@
 #include <iostream>
 #include <iomanip>
+//iomanip is used when we need a structred out in console
+/* structred mean a specific width of space */
+// we call these as ESCAPE SEQUENCES
 using namespace std;
 
 int main()

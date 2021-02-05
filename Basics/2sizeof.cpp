@@ -2,6 +2,7 @@
 int main()
  {
      using namespace std;
+     // checking the SIZEOF datatype
      cout<<"int size = "<<sizeof(int)<<"\n";
      cout<<"short size = "<<sizeof(short)<<"\n";
      cout<<"long size = "<<sizeof(long)<<"\n";
