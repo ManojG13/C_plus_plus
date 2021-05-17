@@ -1,5 +1,5 @@
-#include<iostream>
-int msin()
+#include <iostream>
+int main()
 {
     int Target = 50;
     int Guess = 0;
@@ -12,7 +12,7 @@ int msin()
     {
         std::cout<<"You're good to go!";
     }
-    else if(Guess < Target)
+    else if (Guess < Target)
     {
         std::cout<<"Need to Improve";
     }
