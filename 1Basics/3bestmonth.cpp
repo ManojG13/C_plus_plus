@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
     // enum to declare enumerated types of limited values
-    enum months{jan, feb, mar, apr, may, june, july, aug};
-    months bestMonth;
-    bestMonth = jan;
+    enum month{jan, feb, mar, apr, may, june, july, aug};
+    month bestMonth;
+    bestMonth = mar;
     if(bestMonth == feb)
     {
         cout << "It's a best month" << endl;

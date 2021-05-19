@@ -14,7 +14,7 @@ int main()
     cout << "enter the length" << "\n";
     getline(cin, stringLen);
     stringstream(stringLen) >> length;
-     
+
     cout << "enter the width" <<"\n";
     getline(cin, stringWid);
     stringstream(stringWid) >>  width;
