@@ -2,7 +2,7 @@
 ________________
 
 /* This is a C++ free course from udacity and I'm practising this on my local machine. */ 
-
+#thus is my sample code readme file
 I encourage you to have a look at the course available for free at https://www.udacity.com/course/c-for-programmers--ud210
 
 # Requirements
